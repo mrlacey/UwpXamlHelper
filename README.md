@@ -3,7 +3,7 @@ Set the StatusBar (mobile) or TitleBar (desktop) in XAML of your UWP app.
 
 You don't need to do anything in code behind or even add references to the extension libraries in your project. Just install via NuGet.
 
-![Image of NuGet entry](Docs\NuGet.png)
+![Image of NuGet entry](Docs/NuGet.png)
 
 Set either the MobileStatusBar, the DesktopTitleBar, or both.
 
@@ -25,7 +25,7 @@ Set either the MobileStatusBar, the DesktopTitleBar, or both.
 ```
 Will create this when on a mobile device. No impact on desktop.
 
-![Phone showing black text on a pink background](Docs\MobileStatusBar.png)
+![Phone showing black text on a pink background](Docs/MobileStatusBar.png)
 
 
 ## [Desktop]TitleBar
@@ -57,4 +57,4 @@ Will create this when on a mobile device. No impact on desktop.
 Will create this when on a desktop device. No impact on mobile.
 
 
-![Desktop apps in foreground and background (inactive)](Docs\DesktopTitleBar.png)
+![Desktop apps in foreground and background (inactive)](Docs/DesktopTitleBar.png)
