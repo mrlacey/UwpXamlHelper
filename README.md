@@ -1,2 +1,2 @@
-# UwpXamlHelper
-Assorted collection of helper utilities for working with XAML in UWP apps.
+# UWP XAML Helper
+Set the StatusBar (mobile) or TitleBar (desktop) in XAML.

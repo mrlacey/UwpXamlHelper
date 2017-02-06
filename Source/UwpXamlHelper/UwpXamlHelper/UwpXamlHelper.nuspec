@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>UwpXamlHelper</id>
+    <version>1.0.0</version>
+    <title>UWP XAML Helper</title>
+    <authors>Matt Lacey</authors>
+    <owners>Matt Lacey</owners>
+    <licenseUrl>https://github.com/mrlacey/UwpXamlHelper/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/mrlacey/UwpXamlHelper</projectUrl>
+    <!--<iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Utility library making it possible to do more with XAML in UWP apps.</description>
+    <releaseNotes>Initial Release.</releaseNotes>
+    <copyright>Copyright © 2017 Matt Lacey</copyright>
+    <tags>UWP XAML StatusBar TitleBar</tags>
+  </metadata>
+</package>
